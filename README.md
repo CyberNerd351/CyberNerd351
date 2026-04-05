@@ -1,5 +1,7 @@
 # README.md
 
+![Wecncode Egerton University Chapter Badge](https://github.com/CyberNerd351/CyberNerd351/blob/main/Community%20Badge%20(4).png?raw=true)
+
 # 💫 About Me:
 ### Hey there 👋 I'm Peter Nyagaka  <br><br>🚀 I'm currently working on **Smart HelbWallet**, a website that helps students manage their HELB funds wisely.  <br>🤝 I'm looking to collaborate on **open-source web development** projects that solve real-world problems.  <br>⚙️ I'm interested in **improving backend performance** in Node.js and building **scalable database solutions**.  <br>📚 I'm currently learning **Express**, **MongoDB**, and **Node.js**, while also exploring **cybersecurity** for my personal projects.  <br>💬 Ask me about **React**, **frontend performance optimization**, or **building personal productivity systems**.  <br>💡 Fun fact: I once built a **full-stack app during a 12-hour bus ride**—Wi-Fi was my biggest enemy that day 😅.  <br><br>---<br>🌐 Check out my projects and let's build something awesome together!<br>
 
